@@ -11,3 +11,10 @@ Few tech that I enjoy working in are Python, plotly, Seaborn, sklearn and tensor
 [Name of your project](github link)
 
 ### Skills
+Scripting and Libraries : Python, NumPy, Pandas, Sklearn, Plotly, Seaborn, Matploylib, Tenserflow, Keras
+
+Data Science : Machine Learning, Deep Learning, Data Visualization
+
+Database : SQL-RDS, NoSQL-MongoDB, DynamoDB
+
+Cloud : AWS-Sagemaker, Heroku
