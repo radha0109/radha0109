@@ -17,4 +17,4 @@ Data Science : Machine Learning, Deep Learning, Data Visualization
 
 Database : SQL-RDS, NoSQL-MongoDB, DynamoDB
 
-Cloud : AWS-Sagemaker, Heroku
+Cloud : AWS-Sagemaker, Heroku, Google Collab
