@@ -8,7 +8,8 @@ Few tech that I enjoy working in are Python, plotly, Seaborn, sklearn and tensor
 - 👨 Know more about me at [My Resume](add your google drive resume link here) 
 
 ### My Recent projects 
-Hotel Booking EDA (https://github.com/radha0109/Hotel-Booking-EDA-Project)
+1. Hotel Booking EDA (https://github.com/radha0109/Hotel-Booking-EDA-Project)
+2. Titanic Survived Prediction (https://github.com/radha0109/titanicsurvived_deployment)
 
 ### Skills
 Scripting and Libraries : Python, NumPy, Pandas, Sklearn, Plotly, Seaborn, Matploylib, Tenserflow, Keras
