@@ -17,4 +17,6 @@ Data Science : Machine Learning, Deep Learning, Data Visualization
 
 Database : SQL-RDS, NoSQL-MongoDB, DynamoDB
 
+Tableau : Hierarchies, Parameters, Filters, Calculated Fields, Sets, Groups
+
 Cloud : AWS-Sagemaker, Heroku, Google Collab
